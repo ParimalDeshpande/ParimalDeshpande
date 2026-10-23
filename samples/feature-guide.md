@@ -1,3 +1,7 @@
+---
+layout: page
+title: Managing Tasks and Project Workflows
+---
 # Managing Tasks and Project Workflows
 
 *An independently created sample for a fictional software product.*
