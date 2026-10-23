@@ -1,3 +1,7 @@
+---
+layout: homepage
+title: Technical Writer | Software Documentation
+---
 Technical Writer | Software Documentation
 
 I make complex software easier to understand, navigate, and use.
