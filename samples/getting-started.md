@@ -1,3 +1,8 @@
+---
+layout: page
+title: Getting Started with FlowPilot
+---
+
 # Getting Started with FlowPilot
 
 *An independently created sample for a fictional software product.*
