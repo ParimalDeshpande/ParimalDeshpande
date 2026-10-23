@@ -1,3 +1,8 @@
+---
+layout: page
+title: Documentation Design Case Study
+---
+
 # Documentation Design Case Study
 
 *Hypothetical case study based on a fictional software product.*
